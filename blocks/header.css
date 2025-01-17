@@ -8,18 +8,32 @@
 
 @media screen and (max-width: 1280px) {
   .header {
-    width: 900px;
+    width: 254.84px;
+    height: 14.94px;
+    top: 54px;
+    gap: 0px;
+    opacity: 0px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .header {
-    width: 600px;
+    width: 254px;
+    height: 66px;
+    top: 30px;
+    left: 257px;
+    gap: 0px;
+    opacity: 0px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .header {
-    width: 300px;
+    width: 188px;
+    height: 52px;
+    top: 20px;
+    left: 66px;
+    gap: 0px;
+    opacity: 0px;
   }
 }
