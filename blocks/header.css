@@ -4,6 +4,7 @@
   margin: 0 auto;
   color: #ffffff;
   background-color: #2a2c2f;
+  line-height: 150%;
 }
 
 @media screen and (max-width: 1280px) {
