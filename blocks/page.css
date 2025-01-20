@@ -8,9 +8,12 @@
 }
 
 .page {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  width: 1280px;
+  height: 2008px;
+  top: -4524px;
+  left: -2387px;
+  gap: 0px;
+  opacity: 0px;
 }
 
 .body {
