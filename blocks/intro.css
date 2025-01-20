@@ -1,8 +1,32 @@
 @media screen and (max-width: 1280px) {
+  .intro {
+    width: 830px;
+    height: 607px;
+    top: 1269px;
+    left: 148px;
+    gap: 0px;
+    opacity: 0px;
+  }
 }
 
 @media screen and (max-width: 768px) {
+  .intro {
+    width: 720px;
+    height: 573px;
+    top: 1041px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+  }
 }
 
 @media screen and (max-width: 320px) {
+  .intro {
+    width: 288px;
+    height: 1033px;
+    top: 570px;
+    left: 16px;
+    gap: 0px;
+    opacity: 0px;
+  }
 }
