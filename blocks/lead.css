@@ -24,7 +24,7 @@
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-  background: #ffffff;
+  color: #ffffff;
 }
 
 .lead_description {
@@ -41,7 +41,7 @@
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-  background: #ffffff;
+  color: #ffffff;
 }
 
 .lead_image {
