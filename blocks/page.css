@@ -7,6 +7,12 @@
 @media screen and (max-width: 320px) {
 }
 
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
 .body {
   font-family: "Inter", Sans-serif;
   background-color: #2a2c2f;
