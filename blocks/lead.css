@@ -76,5 +76,6 @@
     color: #ffffff;
   }
   .lead_image {
+    object-fit: contain;
   }
 }
