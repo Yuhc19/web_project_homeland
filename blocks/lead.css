@@ -49,10 +49,13 @@
 
 @media screen and (max-width: 768px) {
   .lead {
+    color: #ffffff;
   }
   .lead_title {
+    color: #ffffff;
   }
   .lead_description {
+    color: #ffffff;
   }
   .lead_image {
   }
@@ -60,10 +63,13 @@
 
 @media screen and (max-width: 320px) {
   .lead {
+    color: #ffffff;
   }
   .lead_title {
+    color: #ffffff;
   }
   .lead_description {
+    color: #ffffff;
   }
   .lead_image {
   }
