@@ -8,7 +8,7 @@
     top: 194px;
     left: 148px;
     gap: 0px;
-    opacity: 0px;
+
     color: #ffffff;
   }
 
@@ -26,7 +26,7 @@
   .lead_description {
     width: 100%;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 30px;
     font-weight: 400;
@@ -38,7 +38,6 @@
   .lead_image {
     width: 100%;
     gap: 0px;
-    opacity: 0px;
   }
 }
 
