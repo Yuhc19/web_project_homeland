@@ -5,9 +5,6 @@
 @media screen and (max-width: 1280px) {
   .intro {
     width: 830px;
-    height: 607px;
-    top: 1269px;
-    left: 148px;
     gap: 0px;
     opacity: 0px;
     color: #ffffff;
@@ -19,8 +16,6 @@
     font-weight: 900;
     line-height: 58px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
 
@@ -31,16 +26,11 @@
     font-weight: 400;
     line-height: 34px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
   }
 
   .intro_author {
     color: #ffffff;
     width: 732px;
-    height: 33.91px;
-    top: 1628.56px;
-    left: 148px;
     gap: 0px;
     opacity: 0px;
   }
@@ -60,27 +50,18 @@
 @media screen and (max-width: 768px) {
   .intro {
     width: 720px;
-    height: 573px;
-    top: 1041px;
-    left: 24px;
     gap: 0px;
     opacity: 0px;
     color: #ffffff;
   }
   .intro_title {
     width: 720px;
-    height: 255px;
-    top: 186px;
-    left: 24px;
     gap: 0px;
     opacity: 0px;
     color: #ffffff;
   }
   .intro_quoute {
     width: 720px;
-    height: 136px;
-    top: 1238px;
-    left: 24px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -88,15 +69,10 @@
     font-weight: 400;
     line-height: 34px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
   .intro_author {
     width: 720px;
-    height: 34px;
-    top: 1366px;
-    left: 24px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -104,15 +80,10 @@
     font-weight: 400;
     line-height: 34px;
     text-align: right;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
   .intro_description {
     width: 720px;
-    height: 182px;
-    top: 1432px;
-    left: 24px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -120,8 +91,6 @@
     font-weight: 400;
     line-height: 26.08px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
 }
@@ -129,18 +98,12 @@
 @media screen and (max-width: 320px) {
   .intro {
     width: 288px;
-    height: 1033px;
-    top: 570px;
-    left: 16px;
     gap: 0px;
     opacity: 0px;
     color: #ffffff;
   }
   .intro_tittle {
     width: 288px;
-    height: 175px;
-    top: 570px;
-    left: 16px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -148,15 +111,10 @@
     font-weight: 900;
     line-height: 35px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
   .intro_quoute {
     width: 288px;
-    height: 300px;
-    top: 785px;
-    left: 16px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -164,15 +122,10 @@
     font-weight: 400;
     line-height: 30px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
   .intro_author {
     width: 288px;
-    height: 34px;
-    top: 1095px;
-    left: 16px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -180,15 +133,10 @@
     font-weight: 400;
     line-height: 34px;
     text-align: right;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
   .intro_description {
     width: 288px;
-    height: 442px;
-    top: 1161px;
-    left: 16px;
     gap: 0px;
     opacity: 0px;
     font-family: Inter;
@@ -196,8 +144,6 @@
     font-weight: 400;
     line-height: 26.08px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #ffffff;
   }
 }
