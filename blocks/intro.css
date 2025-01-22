@@ -4,13 +4,13 @@
 
 @media screen and (max-width: 1280px) {
   .intro {
-    width: 830px;
-    gap: 0px;
+    width: 100%;
 
     color: #ffffff;
   }
 
   .intro_title {
+    width: 100%;
     font-family: Inter;
     font-size: 54px;
     font-weight: 900;
@@ -20,6 +20,7 @@
   }
 
   .into-quoute {
+    width: 100%;
     color: #ffffff;
     font-family: Inter;
     font-size: 24px;
@@ -29,40 +30,34 @@
   }
 
   .intro_author {
+    width: 100%;
     color: #ffffff;
     width: 732px;
     gap: 0px;
   }
 
   .intro_description {
+    width: 100%;
     color: #ffffff;
     font-family: Inter;
     font-size: 16px;
     font-weight: 400;
     line-height: 26.08px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
   }
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-    width: 720px;
-    gap: 0px;
-
+    width: 50%;
     color: #ffffff;
   }
   .intro_title {
-    width: 720px;
-    gap: 0px;
-
+    width: 50%;
     color: #ffffff;
   }
   .intro_quoute {
-    width: 720px;
-    gap: 0px;
-
+    width: 50%;
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -71,9 +66,7 @@
     color: #ffffff;
   }
   .intro_author {
-    width: 720px;
-    gap: 0px;
-
+    width: 50%;
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -82,9 +75,7 @@
     color: #ffffff;
   }
   .intro_description {
-    width: 720px;
-    gap: 0px;
-
+    width: 50%;
     font-family: Inter;
     font-size: 16px;
     font-weight: 400;
@@ -96,15 +87,11 @@
 
 @media screen and (max-width: 320px) {
   .intro {
-    width: 288px;
-    gap: 0px;
-
+    width: 25%;
     color: #ffffff;
   }
   .intro_tittle {
-    width: 288px;
-    gap: 0px;
-
+    width: 25%;
     font-family: Inter;
     font-size: 32px;
     font-weight: 900;
@@ -113,9 +100,7 @@
     color: #ffffff;
   }
   .intro_quoute {
-    width: 288px;
-    gap: 0px;
-
+    width: 25%;
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -124,9 +109,7 @@
     color: #ffffff;
   }
   .intro_author {
-    width: 288px;
-    gap: 0px;
-
+    width: 25%;
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -135,9 +118,7 @@
     color: #ffffff;
   }
   .intro_description {
-    width: 288px;
-    gap: 0px;
-
+    width: 25%;
     font-family: Inter;
     font-size: 16px;
     font-weight: 400;

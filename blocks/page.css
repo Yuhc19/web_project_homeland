@@ -9,7 +9,6 @@
   .page {
     width: 1280px;
     height: 2008px;
-    gap: 0px;
   }
 }
 
@@ -17,7 +16,6 @@
   .page {
     width: 768px;
     height: 1742px;
-    gap: 0px;
   }
 }
 
@@ -25,6 +23,5 @@
   .page {
     width: 320px;
     height: 1705px;
-    gap: 0px;
   }
 }
