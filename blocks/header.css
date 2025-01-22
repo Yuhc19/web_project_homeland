@@ -12,21 +12,21 @@
 
 @media screen and (max-width: 1280px) {
   .header {
-    width: 254.84px;
+    width: 100%;
     gap: 0px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .header {
-    width: 254px;
+    width: 50%;
     gap: 0px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .header {
-    width: 188px;
+    width: 25%;
     gap: 0px;
   }
 }
