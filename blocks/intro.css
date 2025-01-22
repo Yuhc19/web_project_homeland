@@ -6,7 +6,7 @@
   .intro {
     width: 830px;
     gap: 0px;
-    opacity: 0px;
+
     color: #ffffff;
   }
 
@@ -32,7 +32,6 @@
     color: #ffffff;
     width: 732px;
     gap: 0px;
-    opacity: 0px;
   }
 
   .intro_description {
@@ -51,19 +50,19 @@
   .intro {
     width: 720px;
     gap: 0px;
-    opacity: 0px;
+
     color: #ffffff;
   }
   .intro_title {
     width: 720px;
     gap: 0px;
-    opacity: 0px;
+
     color: #ffffff;
   }
   .intro_quoute {
     width: 720px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -74,7 +73,7 @@
   .intro_author {
     width: 720px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -85,7 +84,7 @@
   .intro_description {
     width: 720px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 16px;
     font-weight: 400;
@@ -99,13 +98,13 @@
   .intro {
     width: 288px;
     gap: 0px;
-    opacity: 0px;
+
     color: #ffffff;
   }
   .intro_tittle {
     width: 288px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 32px;
     font-weight: 900;
@@ -116,7 +115,7 @@
   .intro_quoute {
     width: 288px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -127,7 +126,7 @@
   .intro_author {
     width: 288px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 24px;
     font-weight: 400;
@@ -138,7 +137,7 @@
   .intro_description {
     width: 288px;
     gap: 0px;
-    opacity: 0px;
+
     font-family: Inter;
     font-size: 16px;
     font-weight: 400;
