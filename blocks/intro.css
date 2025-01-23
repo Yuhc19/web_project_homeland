@@ -1,129 +1,85 @@
 .intro {
   color: #ffffff;
+  background-color: #2a2c2f;
+}
+.intro_tittle {
+  color: #ffffff;
+  background-color: #2a2c2f;
+}
+
+.intro_quoute {
+  color: #ffffff;
+  background-color: #2a2c2f;
+  display: flex;
+  justify-content: flex-start;
+}
+.intro_author {
+  color: #ffffff;
+  background-color: #2a2c2f;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.intro_description {
+  color: #ffffff;
+  background-color: #2a2c2f;
+  display: flex;
+  justify-content: left;
 }
 
 @media screen and (max-width: 1280px) {
   .intro {
-    width: 100%;
-
-    color: #ffffff;
+    max-width: 100%;
   }
 
   .intro_title {
-    width: 100%;
-    font-family: Inter;
-    font-size: 54px;
-    font-weight: 900;
-    line-height: 58px;
-    text-align: left;
-    color: #ffffff;
+    max-width: 100%;
   }
 
   .into-quoute {
-    width: 100%;
-    color: #ffffff;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 34px;
-    text-align: left;
+    max-width: 100%;
   }
 
   .intro_author {
-    width: 100%;
-    color: #ffffff;
-    width: 732px;
-    gap: 0px;
+    max-width: 100%;
   }
 
   .intro_description {
-    width: 100%;
-    color: #ffffff;
-    font-family: Inter;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26.08px;
-    text-align: left;
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-    width: 50%;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_title {
-    width: 50%;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_quoute {
-    width: 50%;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 34px;
-    text-align: left;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_author {
-    width: 50%;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 34px;
-    text-align: right;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_description {
-    width: 50%;
-    font-family: Inter;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26.08px;
-    text-align: left;
-    color: #ffffff;
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
-    width: 25%;
-    color: #ffffff;
+    width: 100%;
   }
   .intro_tittle {
-    width: 25%;
-    font-family: Inter;
-    font-size: 32px;
-    font-weight: 900;
-    line-height: 35px;
-    text-align: left;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_quoute {
-    width: 25%;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 30px;
-    text-align: left;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_author {
-    width: 25%;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 34px;
-    text-align: right;
-    color: #ffffff;
+    max-width: 100%;
   }
   .intro_description {
-    width: 25%;
-    font-family: Inter;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26.08px;
-    text-align: left;
-    color: #ffffff;
+    max-width: 100%;
   }
 }
