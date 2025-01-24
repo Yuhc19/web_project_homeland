@@ -6,24 +6,20 @@
   line-height: 150%;
 }
 
-.header_logo {
-  max-width: 50%;
-}
-
 @media screen and (max-width: 1280px) {
   .header {
-    max-width: 100%;
+    max-width: 1280px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .header {
-    max-width: 50%;
+    max-width: 768px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .header {
-    max-width: 25%;
+    max-width: 320px;
   }
 }
