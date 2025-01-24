@@ -5,48 +5,48 @@
 
 @media screen and (max-width: 1280px) {
   .lead {
-    max-width: 100%;
+    max-width: 1280px;
   }
 
   .lead_title {
-    max-width: 100%;
+    max-width: 1280px;
   }
 
   .lead_description {
-    max-width: 100%;
+    max-width: 1280px;
   }
 
   .lead_image {
-    max-width: 100%;
+    max-width: 1280px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
-    max-width: 50%;
+    max-width: 768px;
   }
   .lead_title {
-    max-width: 50%;
+    max-width: 768px;
   }
   .lead_description {
-    max-width: 50%;
+    max-width: 768px;
   }
   .lead_image {
-    max-width: 50%;
+    max-width: 768px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead {
-    max-width: 25%;
+    max-width: 320px;
   }
   .lead_title {
-    max-width: 25%;
+    max-width: 320px;
   }
   .lead_description {
-    max-width: 25%;
+    max-width: 320px;
   }
   .lead_image {
-    max-width: 25%;
+    max-width: 320px;
   }
 }
