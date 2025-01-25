@@ -25,13 +25,13 @@
   .lead {
     max-width: 768px;
   }
-  .lead_title {
+  .lead__title {
     max-width: 768px;
   }
-  .lead_description {
+  .lead__description {
     max-width: 768px;
   }
-  .lead_image {
+  .lead__image {
     max-width: 768px;
   }
 }
@@ -40,13 +40,13 @@
   .lead {
     max-width: 320px;
   }
-  .lead_title {
+  .lead__title {
     max-width: 320px;
   }
-  .lead_description {
+  .lead__description {
     max-width: 320px;
   }
-  .lead_image {
+  .lead__image {
     max-width: 320px;
   }
 }

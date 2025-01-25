@@ -2,24 +2,24 @@
   color: #ffffff;
   background-color: #2a2c2f;
 }
-.intro_tittle {
+.intro__title {
   color: #ffffff;
   background-color: #2a2c2f;
 }
 
-.intro_quoute {
+.intro__quoute {
   color: #ffffff;
   background-color: #2a2c2f;
   display: flex;
   justify-content: flex-start;
 }
-.intro_author {
+.intro__author {
   color: #ffffff;
   background-color: #2a2c2f;
   display: flex;
   flex-direction: row-reverse;
 }
-.intro_description {
+.intro__description {
   color: #ffffff;
   background-color: #2a2c2f;
   display: flex;
@@ -31,19 +31,19 @@
     max-width: 1280px;
   }
 
-  .intro_title {
+  .intro__title {
     max-width: 1280px;
   }
 
-  .into-quoute {
+  .intro__quoute {
     max-width: 1280px;
   }
 
-  .intro_author {
+  .intro__author {
     max-width: 1280px;
   }
 
-  .intro_description {
+  .intro__description {
     max-width: 1280px;
   }
 }
@@ -52,16 +52,16 @@
   .intro {
     max-width: 768px;
   }
-  .intro_title {
+  .intro__title {
     max-width: 768px;
   }
-  .intro_quoute {
+  .intro__quoute {
     max-width: 768px;
   }
-  .intro_author {
+  .intro__author {
     max-width: 768px;
   }
-  .intro_description {
+  .intro__description {
     max-width: 768px;
   }
 }
@@ -70,16 +70,16 @@
   .intro {
     max-width: 320px;
   }
-  .intro_tittle {
+  .intro__tittle {
     max-width: 320px;
   }
-  .intro_quoute {
+  .intro__quoute {
     max-width: 320px;
   }
-  .intro_author {
+  .intro__author {
     max-width: 320px;
   }
-  .intro_description {
+  .intro__description {
     max-width: 320px;
   }
 }
