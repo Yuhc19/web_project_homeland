@@ -5,6 +5,8 @@
 
 .header__logo {
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
   max-width: 254px;
 }
 @media screen and (max-width: 1280px) {
