@@ -1,25 +1,25 @@
-.main {
+.content {
   background-color: #2a2c2f;
   padding: 10%;
   background-color: #2a2c2f;
 }
 
 @media screen and (max-width: 1280px) {
-  .main {
+  .content {
     overflow: scroll;
     max-width: 1280px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .main {
+  .content {
     overflow: scroll;
     max-width: 768px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .main {
+  .content {
     overflow: scroll;
     max-width: 320px;
   }
