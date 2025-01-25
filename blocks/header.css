@@ -1,11 +1,12 @@
 .header {
-  max-width: 50%;
   margin: 0 auto;
   color: #ffffff;
-  background-color: #2a2c2f;
-  line-height: 150%;
 }
 
+.header__logo {
+  margin: 0 auto;
+  max-width: 254px;
+}
 @media screen and (max-width: 1280px) {
   .header {
     max-width: 1280px;
