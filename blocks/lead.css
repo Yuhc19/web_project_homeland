@@ -17,6 +17,10 @@
 
 .lead__description {
   font-size: 30px;
+  max-width: 720px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 .lead__image {
   width: 100%;
