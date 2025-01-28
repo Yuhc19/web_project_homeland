@@ -14,6 +14,10 @@
   margin: 0 auto;
   text-align: center;
 }
+
+.lead__description {
+  font-size: 30px;
+}
 .lead__image {
   width: 100%;
 }
