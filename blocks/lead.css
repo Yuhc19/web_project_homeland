@@ -9,6 +9,7 @@
 }
 
 .lead__title {
+  display: flex;
   max-width: 720px;
   font-size: 96px;
   margin: 0 auto;
@@ -49,13 +50,15 @@
     max-width: 768px;
   }
   .lead__title {
-    max-width: 768px;
+    max-width: 720px;
+    font-size: 75px;
   }
   .lead__description {
-    max-width: 768px;
+    max-width: 720px;
+    font-size: 30px;
   }
   .lead__image {
-    max-width: 768px;
+    max-width: 100%;
   }
 }
 
