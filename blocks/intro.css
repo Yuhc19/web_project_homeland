@@ -1,5 +1,4 @@
 .intro {
-  padding-right: 154px;
   padding-top: 92px;
   color: #ffffff;
   background-color: #2a2c2f;
@@ -35,23 +34,27 @@
 
 @media screen and (max-width: 1280px) {
   .intro {
-    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    max-width: 830px;
+    margin-top: 92px;
+    padding-right: 302px;
   }
 
   .intro__title {
-    max-width: 1280px;
+    max-width: 830px;
   }
 
   .intro__quoute {
-    max-width: 1280px;
+    max-width: 830px;
   }
 
   .intro__author {
-    max-width: 1280px;
+    max-width: 830px;
   }
 
   .intro__description {
-    max-width: 1280px;
+    max-width: 830px;
   }
 }
 
@@ -61,15 +64,23 @@
   }
   .intro__title {
     max-width: 768px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
   .intro__quoute {
     max-width: 768px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
   .intro__author {
     max-width: 768px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
   .intro__description {
     max-width: 768px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
