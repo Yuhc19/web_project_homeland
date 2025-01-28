@@ -1,5 +1,7 @@
 .footer {
+  max-width: 830px;
   color: #ffffff;
+  font-size: 14px;
   display: flex;
   justify-content: space-around;
   background-color: #2a2c2f;

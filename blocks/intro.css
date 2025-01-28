@@ -5,21 +5,25 @@
 .intro__title {
   color: #ffffff;
   background-color: #2a2c2f;
+  font-size: 54px;
 }
 
 .intro__quoute {
+  font-size: 24px;
   color: #ffffff;
   background-color: #2a2c2f;
   display: flex;
   justify-content: flex-start;
 }
 .intro__author {
+  font-size: 24px;
   color: #ffffff;
   background-color: #2a2c2f;
   display: flex;
   flex-direction: row-reverse;
 }
 .intro__description {
+  font-size: 16px;
   color: #ffffff;
   background-color: #2a2c2f;
   display: flex;
