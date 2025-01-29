@@ -25,27 +25,10 @@
 }
 .lead__image {
   width: 100%;
+  overflow-x: visible;
 }
 
-@media screen and (max-width: 1280px) {
-  .lead {
-    max-width: 1280px;
-  }
-
-  .lead_title {
-    max-width: 1280px;
-  }
-
-  .lead_description {
-    max-width: 1280px;
-  }
-
-  .lead_image {
-    max-width: 1280px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .lead {
     max-width: 768px;
   }
@@ -62,7 +45,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .lead {
     max-width: 320px;
   }
