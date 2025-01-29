@@ -1,5 +1,5 @@
 .intro {
-  padding-top: 92px;
+  padding-top: 90px;
   padding-left: 148px;
   padding-right: 302px;
   color: #ffffff;
@@ -41,28 +41,22 @@
 
   .intro__title {
     max-width: 720px;
-    padding-left: 24px;
-    padding-right: 24px;
+
     font-size: 45px;
   }
 
   .intro__quoute {
     max-width: 720px;
-    padding-left: 24px;
-    padding-right: 24px;
+
     font-size: 24px;
   }
 
   .intro__author {
     max-width: 720px;
-    padding-left: 24px;
-    padding-right: 24px;
   }
 
   .intro__description {
     max-width: 720px;
-    padding-left: 24px;
-    padding-right: 24px;
   }
 }
 
@@ -73,17 +67,21 @@
 
   .intro__tittle {
     max-width: 320px;
+    font-size: 32px;
   }
 
   .intro__quoute {
     max-width: 320px;
+    font-size: 24px;
   }
 
   .intro__author {
     max-width: 320px;
+    font-size: 24px;
   }
 
   .intro__description {
     max-width: 320px;
+    font-size: 16px;
   }
 }
