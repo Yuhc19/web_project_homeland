@@ -32,33 +32,7 @@
   justify-content: left;
 }
 
-@media screen and (max-width: 1280px) {
-  .intro {
-    display: flex;
-    flex-direction: column;
-    max-width: 830px;
-    margin-top: 92px;
-    padding-right: 302px;
-  }
-
-  .intro__title {
-    max-width: 830px;
-  }
-
-  .intro__quoute {
-    max-width: 830px;
-  }
-
-  .intro__author {
-    max-width: 830px;
-  }
-
-  .intro__description {
-    max-width: 830px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .intro {
     max-width: 768px;
   }
@@ -84,7 +58,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .intro {
     max-width: 320px;
   }
