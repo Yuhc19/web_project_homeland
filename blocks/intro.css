@@ -1,7 +1,6 @@
 .intro {
   padding-top: 90px;
-  padding-left: 148px;
-  padding-right: 302px;
+  max-width: 830px;
   color: #ffffff;
   background-color: #2a2c2f;
 }
@@ -37,6 +36,8 @@
 @media screen and (max-width: 1024px) {
   .intro {
     max-width: 768px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
   .intro__title {
@@ -63,6 +64,8 @@
 @media screen and (max-width: 544px) {
   .intro {
     max-width: 320px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   .intro__tittle {
