@@ -1,5 +1,7 @@
 .intro {
   padding-top: 92px;
+  padding-left: 148px;
+  padding-right: 302px;
   color: #ffffff;
   background-color: #2a2c2f;
 }
@@ -36,24 +38,29 @@
   .intro {
     max-width: 768px;
   }
+
   .intro__title {
-    max-width: 768px;
+    max-width: 720px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 45px;
+  }
+
+  .intro__quoute {
+    max-width: 720px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 24px;
+  }
+
+  .intro__author {
+    max-width: 720px;
     padding-left: 24px;
     padding-right: 24px;
   }
 
-  .intro__quoute {
-    max-width: 768px;
-    padding-left: 24px;
-    padding-right: 24px;
-  }
-  .intro__author {
-    max-width: 768px;
-    padding-left: 24px;
-    padding-right: 24px;
-  }
   .intro__description {
-    max-width: 768px;
+    max-width: 720px;
     padding-left: 24px;
     padding-right: 24px;
   }
@@ -63,15 +70,19 @@
   .intro {
     max-width: 320px;
   }
+
   .intro__tittle {
     max-width: 320px;
   }
+
   .intro__quoute {
     max-width: 320px;
   }
+
   .intro__author {
     max-width: 320px;
   }
+
   .intro__description {
     max-width: 320px;
   }
